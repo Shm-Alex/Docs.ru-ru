@@ -69,13 +69,13 @@ ms.locfileid: "47860944"
    dotnet run
    ```
 
-5. Перейдите по адресу [http://localhost:5001](http://localhost:5001).  Щелкните **Принять**, чтобы принять политику конфиденциальности и использования файлов cookie. Это приложение не хранит персональные данные.
+5. Перейдите по адресу [https://localhost:5001](https://localhost:5001).  Щелкните **Принять**, чтобы принять политику конфиденциальности и использования файлов cookie. Это приложение не хранит персональные данные.
 
 6. Откройте *Pages/About.cshtml* и измените страницу, добавив выделенное исправление.
 
    [!code-cshtml[](sample/getting-started/about.cshtml?highlight=9)]
 
-7. Перейдите к [http://localhost:5001/About](http://localhost:5001/About) и проверьте, отобразились ли изменения.
+7. Перейдите к [https://localhost:5001/About](https://localhost:5001/About) и проверьте, отобразились ли изменения.
 
 [!INCLUDE [next steps](~/includes/getting-started/next-steps.md)]
 
